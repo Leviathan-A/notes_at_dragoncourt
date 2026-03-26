@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+"$SCRIPT_DIR/pull.sh"
+"$SCRIPT_DIR/push.sh" "${1:-}"
+
+echo "[sync] 完成。"

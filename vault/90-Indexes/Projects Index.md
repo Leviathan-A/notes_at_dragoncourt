@@ -5,6 +5,7 @@
 - 在项目页维护里程碑、风险和关联日报。
 - [[02-Projects/知识库自动化]]
 - [[02-Projects/constructor-listener 常驻 Pod 部署与排障]]
+- [[02-Projects/投资入门-曼昆经济学学习计划]]
 
 ## Dataview 片段（可选）
 ```dataview
